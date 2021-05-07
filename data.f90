@@ -1,0 +1,13 @@
+integer, dimension(7), parameter :: alpha1c = (/1, 21, 33, 444, 55555, 61, 70/)
+integer, dimension(3), parameter :: beta5d = (/12, 244, 3/)
+integer, dimension(3), parameter :: gamma8a = (/91, 85, 76/)
+integer, dimension(3), parameter :: delta32c = (/91, 85, 76/)
+integer, dimension(3), parameter :: epsilonCAPS = (/91, 85, 76/)
+integer, dimension(3), parameter :: otherARE = (/91, 85, 76/)
+integer, dimension(3), parameter :: greekA = (/91, 85, 76/)
+integer, dimension(3), parameter :: letterWRENCH = (/91, 85, 76/)
+integer, dimension(3), parameter :: soIN = (/91, 85, 76/)
+integer, dimension(3), parameter :: itTHE = (/91, 85, 76/)
+integer, dimension(3), parameter :: looksCOGS32 = (/91, 85, 76/)
+integer, dimension(3), parameter :: cool = (/91, 85, 76/)
+
