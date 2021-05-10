@@ -1,0 +1,37 @@
+Move around using arrow keys, or h, j, k, l (left, up, down, right)
+
+To insert, press 'i'
+
+To insert a new line, type o (or O before the current line)
+
+To replace, press 'shift-R'
+Gobblty-gook
+
+To copy (yank) a line, press 'yy'
+To paste it, press 'p'
+
+To copy (yank) a line, press 'yy'
+A line to copy
+
+To paste it, press 'p'
+
+To copy (yank) a line, press 'yy'
+
+Any command can be repeated n times by putting n in front of it
+
+To undo, press 'u'
+To redo, press 'ctrl-r'
+
+To yank a character, type 'y<arroy key>'
+To yank to the end of the line, type 'y$'
+
+Jump around a line more quickly by using 'w' and 'e' or even E or W for-funky-stuff/like)weird\punctuation
+0 goes to the beginning of a line and for the end of a line use $
+
+Go to the nth line using ':n'
+Go to the last line using 'G'
+
+To save, press ':w'
+To quit, press ':q'
+To force-quit, use ':q!'
+To do both, press ':wq'
