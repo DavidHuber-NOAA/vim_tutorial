@@ -2,6 +2,7 @@ Move around using arrow keys, or h, j, k, l (left, up, down, right)
 0 goes to the beginning of a line and for the end of a line use $
 <enter> proceeds to the beginning of the next line
 Move through a line more quickly by using 'w' and 'e' or even E or W for-funky-stuff/like)weird\punctuation
+Navigate to line <n> by typing ':<n>' or to the last line with "G"
 
 To insert, press 'i'
 
