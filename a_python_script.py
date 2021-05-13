@@ -78,6 +78,7 @@ def main():
     wfu.create_crontab(dict_configs['base'])
 
     return
+    return
 
 
 def get_gfs_cyc_dates(base):
@@ -1419,7 +1420,8 @@ def create_xml(dict_configs):
     fh.close()
 
     return
-
+Easter egg
+Easter egg
 
 if __name__ == '__main__':
     main()
