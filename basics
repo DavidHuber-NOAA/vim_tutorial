@@ -1,8 +1,11 @@
 Move around using arrow keys, or h, j, k, l (left, up, down, right)
 0 goes to the beginning of a line and for the end of a line use $
+<enter> proceeds to the beginning of the next line
 Move through a line more quickly by using 'w' and 'e' or even E or W for-funky-stuff/like)weird\punctuation
 
 To insert, press 'i'
+
+To exit insert mode, press '<esc>'
 
 To insert a new line, type o (or O before the current line)
 
@@ -13,6 +16,11 @@ To yank (copy) a line, press 'yy'
 To paste it, press 'p'
 
 Any command can be repeated n times by putting n in front of it
+
+A command can also be repeated by typing "."
+
+Delete a line typing "dd"
+Who wrote this line?!
 
 To undo, press 'u'
 To redo, press 'ctrl-r'

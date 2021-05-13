@@ -27,6 +27,9 @@ set incsearch
 set ignorecase
 set smartcase
 
+" Color scheme (terminal)
+set t_Co=256
+
 if &diff
    colorscheme mycolorscheme
 end
@@ -51,3 +54,13 @@ call vundle#end()
 " For plugins to load correctly
 filetype plugin indent on
 
+" Setup status bar
+set laststatus=2
+set statusline=%F       "tail of the filename
+set statusline+=%m      "modified flag
+set statusline+=%r      "read only flag
+set statusline+=%y      "filetype
+set statusline+=%=      "left/right separator
+set statusline+=%c,     "cursor column
+set statusline+=%l/%L   "cursor line/total lines
+set statusline+=\ %P    "percent through file
